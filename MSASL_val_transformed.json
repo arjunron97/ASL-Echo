@@ -1,0 +1,2722 @@
+[
+    {
+        "link": "https://www.youtube.com/watch?v=koMZVbqiXf4",
+        "link_id": "koMZVbqiXf4",
+        "class1": {
+            "name": "orange",
+            "org_text": "orange",
+            "start_time": 167.868,
+            "start": 5031,
+            "end": 5135,
+            "file": "ASL I - Unit 4 Vocabulary Review",
+            "label": 7,
+            "height": 352.0,
+            "fps": 29.97,
+            "end_time": 171.338,
+            "text": "orange",
+            "box": [
+                0.19562199711799622,
+                0.4576151669025421,
+                0.9951080679893494,
+                0.9005051851272583
+            ],
+            "width": 640.0
+        }
+    },
+    {
+        "link": "https://www.youtube.com/watch?v=0HvgswZfDGI",
+        "link_id": "0HvgswZfDGI",
+        "class1": {
+            "name": "no",
+            "org_text": "NO",
+            "start_time": 0.0,
+            "start": 0,
+            "end": 35,
+            "file": "NO(3)",
+            "label": 4,
+            "height": 360.0,
+            "fps": 15.0,
+            "end_time": 2.333,
+            "text": "no",
+            "box": [
+                0.1812058985233307,
+                0.2950950860977173,
+                1.0,
+                0.7678565382957458
+            ],
+            "width": 480.0
+        }
+    },
+    {
+        "link": "https://www.youtube.com/watch?v=iR6M4P6XqB0",
+        "link_id": "iR6M4P6XqB0",
+        "class1": {
+            "name": "teacher",
+            "org_text": "TEACHER",
+            "start_time": 52.486,
+            "start": 1573,
+            "end": 1723,
+            "file": "ASL 2 unit 2 vocab",
+            "label": 2,
+            "height": 360.0,
+            "fps": 29.97,
+            "end_time": 57.491,
+            "text": "teacher",
+            "box": [
+                0.0,
+                0.022726505994796753,
+                1.0,
+                0.9397739171981812
+            ],
+            "width": 640.0
+        }
+    },
+    {
+        "link": "https://www.youtube.com/watch?v=x28Kk_NjEGU",
+        "link_id": "x28Kk_NjEGU",
+        "class1": {
+            "name": "deaf",
+            "org_text": "DEAF",
+            "start_time": 74.9,
+            "start": 2247,
+            "end": 2375,
+            "file": "1st Day Voc",
+            "label": 9,
+            "height": 720.0,
+            "fps": 30.0,
+            "end_time": 79.167,
+            "text": "deaf",
+            "box": [
+                0.08118227124214172,
+                0.18844902515411377,
+                1.0,
+                0.7454598546028137
+            ],
+            "width": 1280.0
+        }
+    },
+    {
+        "link": "https://www.youtube.com/watch?v=CxTSVyM-ij0",
+        "link_id": "CxTSVyM-ij0",
+        "class1": {
+            "name": "happy",
+            "org_text": "Happy",
+            "start_time": 110.711,
+            "start": 3318,
+            "end": 3378,
+            "file": "Unit 6",
+            "label": 5,
+            "height": 360.0,
+            "fps": 29.97,
+            "end_time": 112.713,
+            "text": "happy",
+            "box": [
+                0.061645567417144775,
+                0.25969403982162476,
+                1.0,
+                0.6854790449142456
+            ],
+            "width": 640.0
+        },
+        "class2": {
+            "name": "like",
+            "org_text": "Like",
+            "start_time": 300.1,
+            "start": 8994,
+            "end": 9044,
+            "file": "Unit 6",
+            "label": 6,
+            "height": 360.0,
+            "fps": 29.97,
+            "end_time": 301.768,
+            "text": "like",
+            "box": [
+                0.07718643546104431,
+                0.30034682154655457,
+                1.0,
+                0.6271705627441406
+            ],
+            "width": 640.0
+        },
+        "class3": {
+            "name": "want",
+            "org_text": "Want",
+            "start_time": 311.978,
+            "start": 9350,
+            "end": 9420,
+            "file": "Unit 6",
+            "label": 8,
+            "height": 360.0,
+            "fps": 29.97,
+            "end_time": 314.314,
+            "text": "want",
+            "box": [
+                0.08238855004310608,
+                0.29391807317733765,
+                1.0,
+                0.655181348323822
+            ],
+            "width": 640.0
+        }
+    },
+    {
+        "link": "https://www.youtube.com/watch?v=N4n5CDpyX3w",
+        "link_id": "N4n5CDpyX3w",
+        "class1": {
+            "name": "happy",
+            "org_text": "happy",
+            "start_time": 254.654,
+            "start": 7632,
+            "end": 7734,
+            "file": "ASL Opposites",
+            "label": 5,
+            "height": 720.0,
+            "fps": 29.97,
+            "end_time": 258.058,
+            "text": "happy",
+            "box": [
+                0.1010279655456543,
+                0.09757918119430542,
+                1.0,
+                0.4858793616294861
+            ],
+            "width": 1280.0
+        },
+        "class2": {
+            "name": "like",
+            "org_text": "like",
+            "start_time": 296.53,
+            "start": 8887,
+            "end": 8997,
+            "file": "ASL Opposites",
+            "label": 6,
+            "height": 720.0,
+            "fps": 29.97,
+            "end_time": 300.2,
+            "text": "like",
+            "box": [
+                0.10871350765228271,
+                0.46156400442123413,
+                0.997458815574646,
+                0.8322346210479736
+            ],
+            "width": 1280.0
+        }
+    },
+    {
+        "link": "https://www.youtube.com/watch?v=PBDUwwE9BFM&t=54s",
+        "link_id": "PBDUwwE9BFM&t=54s",
+        "class1": {
+            "name": "nice",
+            "org_text": "clean",
+            "start_time": 254.254,
+            "start": 7620,
+            "end": 7704,
+            "file": "ASL II - Unit 14 Vocabulary Review",
+            "label": 1,
+            "height": 352.0,
+            "fps": 29.97,
+            "end_time": 257.057,
+            "text": "nice",
+            "box": [
+                0.0039331912994384766,
+                0.4657471776008606,
+                1.0,
+                0.8993414640426636
+            ],
+            "width": 640.0
+        }
+    },
+    {
+        "link": "https://www.youtube.com/watch?v=bFm9sAXhmkQ",
+        "link_id": "bFm9sAXhmkQ",
+        "class1": {
+            "name": "happy",
+            "org_text": "Happy",
+            "start_time": 13.113,
+            "start": 393,
+            "end": 513,
+            "file": "How to Sign HAPPY in Sign Language",
+            "label": 5,
+            "height": 360.0,
+            "fps": 29.97,
+            "end_time": 17.117,
+            "text": "happy",
+            "box": [
+                0.05760636925697327,
+                0.17968711256980896,
+                0.9999873638153076,
+                0.9611895680427551
+            ],
+            "width": 640.0
+        }
+    },
+    {
+        "link": "https://www.youtube.com/watch?v=6x454ncqWFg",
+        "link_id": "6x454ncqWFg",
+        "class1": {
+            "name": "happy",
+            "org_text": "HAPPY",
+            "start_time": 19.353,
+            "start": 580,
+            "end": 621,
+            "file": "Personality Terms   Part 1",
+            "label": 5,
+            "height": 360.0,
+            "fps": 29.97,
+            "end_time": 20.721,
+            "text": "happy",
+            "box": [
+                0.04232281446456909,
+                0.2854486107826233,
+                1.0,
+                0.7940083742141724
+            ],
+            "width": 640.0
+        },
+        "class2": {
+            "name": "nice",
+            "org_text": "NICE",
+            "start_time": 26.727,
+            "start": 801,
+            "end": 826,
+            "file": "Personality Terms   Part 1",
+            "label": 1,
+            "height": 360.0,
+            "fps": 29.97,
+            "end_time": 27.561,
+            "text": "nice",
+            "box": [
+                0.056690722703933716,
+                0.3173190951347351,
+                1.0,
+                0.7550103664398193
+            ],
+            "width": 640.0
+        }
+    },
+    {
+        "link": "https://www.youtube.com/watch?v=qysriDtUS5o",
+        "link_id": "qysriDtUS5o",
+        "class1": {
+            "name": "happy",
+            "org_text": "Happy",
+            "start_time": 18.018,
+            "start": 432,
+            "end": 456,
+            "file": "How to Sign Happy Mothers Day in Sign Language MOTHERS DAY 2017",
+            "label": 5,
+            "height": 360.0,
+            "fps": 23.976,
+            "end_time": 19.019,
+            "text": "happy",
+            "box": [
+                0.05320855975151062,
+                0.21359676122665405,
+                0.9986156225204468,
+                1.0
+            ],
+            "width": 640.0
+        }
+    },
+    {
+        "link": "https://www.youtube.com/watch?v=wS0R-2JXkds",
+        "link_id": "wS0R-2JXkds",
+        "class1": {
+            "name": "like",
+            "org_text": "LIKE",
+            "start_time": 52.152,
+            "start": 1563,
+            "end": 1584,
+            "file": "KPHS School Vocab Video   Part 4 - Time",
+            "label": 6,
+            "height": 360.0,
+            "fps": 29.97,
+            "end_time": 52.853,
+            "text": "like",
+            "box": [
+                0.0,
+                0.22481244802474976,
+                1.0,
+                0.8009992241859436
+            ],
+            "width": 640.0
+        }
+    },
+    {
+        "link": "www.youtube.com/watch?v=Pj7ONpWo7sg",
+        "link_id": "Pj7ONpWo7sg",
+        "class1": {
+            "name": "nice",
+            "org_text": "clean",
+            "start_time": 0.0,
+            "start": 0,
+            "end": 42,
+            "file": "SignSchool Clean",
+            "label": 1,
+            "height": 360.0,
+            "fps": 29.97,
+            "end_time": 1.401,
+            "text": "nice",
+            "box": [
+                0.07398989796638489,
+                0.15740719437599182,
+                1.0,
+                0.7808880805969238
+            ],
+            "width": 640.0
+        }
+    },
+    {
+        "link": "https://www.youtube.com/watch?v=lsjFBdE3X7M",
+        "link_id": "lsjFBdE3X7M",
+        "class1": {
+            "name": "eat",
+            "org_text": "EAT",
+            "start_time": 0.0,
+            "start": 0,
+            "end": 77,
+            "file": "EAT(2)",
+            "label": 3,
+            "height": 720.0,
+            "fps": 30.0,
+            "end_time": 2.567,
+            "text": "eat",
+            "box": [
+                0.0,
+                0.022413164377212524,
+                1.0,
+                0.9001381397247314
+            ],
+            "width": 1280.0
+        }
+    },
+    {
+        "link": "https://www.youtube.com/watch?v=kZuJalsv_z0",
+        "link_id": "kZuJalsv_z0",
+        "class1": {
+            "name": "deaf",
+            "org_text": "DEAF",
+            "start_time": 32.633,
+            "start": 979,
+            "end": 1077,
+            "file": "Mr Miseners ASL lesson 1 vocab review",
+            "label": 9,
+            "height": 720.0,
+            "fps": 30.0,
+            "end_time": 35.9,
+            "text": "deaf",
+            "box": [
+                0.11553230881690979,
+                0.20117011666297913,
+                1.0,
+                0.7944003343582153
+            ],
+            "width": 1280.0
+        },
+        "class2": {
+            "name": "happy",
+            "org_text": "HAPPY",
+            "start_time": 45.833,
+            "start": 1375,
+            "end": 1517,
+            "file": "Mr Miseners ASL lesson 1 vocab review",
+            "label": 5,
+            "height": 720.0,
+            "fps": 30.0,
+            "end_time": 50.567,
+            "text": "happy",
+            "box": [
+                0.0903371274471283,
+                0.1964324414730072,
+                1.0,
+                0.8788927793502808
+            ],
+            "width": 1280.0
+        },
+        "class3": {
+            "name": "hello",
+            "org_text": "HELLO, HI",
+            "start_time": 71.633,
+            "start": 2149,
+            "end": 2263,
+            "file": "Mr Miseners ASL lesson 1 vocab review",
+            "label": 0,
+            "height": 720.0,
+            "fps": 30.0,
+            "end_time": 75.433,
+            "text": "hello",
+            "box": [
+                0.02526453137397766,
+                0.09382730722427368,
+                1.0,
+                0.8358455896377563
+            ],
+            "width": 1280.0
+        }
+    },
+    {
+        "link": "https://www.youtube.com/watch?v=pD4QabDQr6M",
+        "link_id": "pD4QabDQr6M",
+        "class1": {
+            "name": "hello",
+            "org_text": "Hello!",
+            "start_time": 0.467,
+            "start": 14,
+            "end": 73,
+            "file": "Greetings  Answers in American Sign Language",
+            "label": 0,
+            "height": 360.0,
+            "fps": 29.97,
+            "end_time": 2.436,
+            "text": "hello",
+            "box": [
+                0.12895208597183228,
+                0.0997893214225769,
+                1.0,
+                0.8973934650421143
+            ],
+            "width": 640.0
+        },
+        "class2": {
+            "name": "no",
+            "org_text": "No",
+            "start_time": 28.662,
+            "start": 859,
+            "end": 948,
+            "file": "Greetings  Answers in American Sign Language",
+            "label": 4,
+            "height": 360.0,
+            "fps": 29.97,
+            "end_time": 31.632,
+            "text": "no",
+            "box": [
+                0.1292363703250885,
+                0.13402682542800903,
+                1.0,
+                0.8959126472473145
+            ],
+            "width": 640.0
+        }
+    },
+    {
+        "link": "https://www.youtube.com/watch?v=si01coqVYiA",
+        "link_id": "si01coqVYiA",
+        "class1": {
+            "name": "orange",
+            "org_text": "ORANGE",
+            "start_time": 214.915,
+            "start": 6441,
+            "end": 6470,
+            "file": "Unit 10 Vocab",
+            "label": 7,
+            "height": 360.0,
+            "fps": 29.97,
+            "end_time": 215.882,
+            "text": "orange",
+            "box": [
+                0.0,
+                0.14196494221687317,
+                1.0,
+                0.9413241744041443
+            ],
+            "width": 640.0
+        },
+        "class2": {
+            "name": "nice",
+            "org_text": "CLEAN!",
+            "start_time": 326.56,
+            "start": 9787,
+            "end": 9816,
+            "file": "Unit 10 Vocab",
+            "label": 1,
+            "height": 360.0,
+            "fps": 29.97,
+            "end_time": 327.527,
+            "text": "nice",
+            "box": [
+                0.0,
+                0.025163114070892334,
+                1.0,
+                0.9185230135917664
+            ],
+            "width": 640.0
+        }
+    },
+    {
+        "link": "www.youtube.com/watch?v=mylSeGckZJs",
+        "link_id": "mylSeGckZJs",
+        "class1": {
+            "name": "orange",
+            "org_text": "orange",
+            "start_time": 0.0,
+            "start": 0,
+            "end": 37,
+            "file": "SignSchool Orange",
+            "label": 7,
+            "height": 360.0,
+            "fps": 29.97,
+            "end_time": 1.235,
+            "text": "orange",
+            "box": [
+                0.05017104744911194,
+                0.48680567741394043,
+                1.0,
+                0.8737554550170898
+            ],
+            "width": 640.0
+        }
+    },
+    {
+        "link": "https://www.youtube.com/watch?v=0bIF7jh6lnE",
+        "link_id": "0bIF7jh6lnE",
+        "class1": {
+            "name": "deaf",
+            "org_text": "deaf\u2018",
+            "start_time": 12.446,
+            "start": 373,
+            "end": 421,
+            "file": "ASL I - Unit 2 - Vocabulary",
+            "label": 9,
+            "height": 360.0,
+            "fps": 29.97,
+            "end_time": 14.047,
+            "text": "deaf",
+            "box": [
+                0.16997087001800537,
+                0.2455461621284485,
+                0.8898849487304688,
+                0.9941393136978149
+            ],
+            "width": 480.0
+        },
+        "class2": {
+            "name": "teacher",
+            "org_text": "teacher",
+            "start_time": 41.708,
+            "start": 1250,
+            "end": 1291,
+            "file": "ASL I - Unit 2 - Vocabulary",
+            "label": 2,
+            "height": 360.0,
+            "fps": 29.97,
+            "end_time": 43.076,
+            "text": "teacher",
+            "box": [
+                0.15775737166404724,
+                0.25817927718162537,
+                0.8816112279891968,
+                1.0
+            ],
+            "width": 480.0
+        },
+        "class3": {
+            "name": "no",
+            "org_text": "no",
+            "start_time": 111.278,
+            "start": 3335,
+            "end": 3363,
+            "file": "ASL I - Unit 2 - Vocabulary",
+            "label": 4,
+            "height": 360.0,
+            "fps": 29.97,
+            "end_time": 112.212,
+            "text": "no",
+            "box": [
+                0.18781426548957825,
+                0.2990420460700989,
+                0.8784905076026917,
+                0.9182929396629333
+            ],
+            "width": 480.0
+        }
+    },
+    {
+        "link": "https://www.youtube.com/watch?v=xmM5-XsE8Ac",
+        "link_id": "xmM5-XsE8Ac",
+        "class1": {
+            "name": "hello",
+            "org_text": "HELLO",
+            "start_time": 0.0,
+            "start": 0,
+            "end": 44,
+            "file": "HELLO(3)",
+            "label": 0,
+            "height": 360.0,
+            "fps": 15.0,
+            "end_time": 2.933,
+            "text": "hello",
+            "box": [
+                0.16321486234664917,
+                0.2778986394405365,
+                1.0,
+                0.8783726692199707
+            ],
+            "width": 480.0
+        }
+    },
+    {
+        "link": "https://www.youtube.com/watch?v=co7zdtkJW1E",
+        "link_id": "co7zdtkJW1E",
+        "class1": {
+            "name": "want",
+            "org_text": "WANT",
+            "start_time": 0.0,
+            "start": 0,
+            "end": 72,
+            "file": "WANT(1)",
+            "label": 8,
+            "height": 720.0,
+            "fps": 25.0,
+            "end_time": 2.88,
+            "text": "want",
+            "box": [
+                0.027594149112701416,
+                0.060692399740219116,
+                0.997514545917511,
+                0.8389829397201538
+            ],
+            "width": 1280.0
+        }
+    },
+    {
+        "link": "https://www.youtube.com/watch?v=R_G5zGVHxkU",
+        "link_id": "R_G5zGVHxkU",
+        "class1": {
+            "name": "happy",
+            "org_text": "happy",
+            "start_time": 16.116,
+            "start": 483,
+            "end": 574,
+            "file": "ASL Vocabulary Emotions",
+            "label": 5,
+            "height": 720.0,
+            "fps": 29.97,
+            "end_time": 19.152,
+            "text": "happy",
+            "box": [
+                0.07333633303642273,
+                0.39248859882354736,
+                0.9993454813957214,
+                0.8860102891921997
+            ],
+            "width": 1280.0
+        },
+        "class2": {
+            "name": "nice",
+            "org_text": "nice",
+            "start_time": 337.003,
+            "start": 10100,
+            "end": 10204,
+            "file": "ASL Vocabulary Emotions",
+            "label": 1,
+            "height": 720.0,
+            "fps": 29.97,
+            "end_time": 340.473,
+            "text": "nice",
+            "box": [
+                0.07618847489356995,
+                0.3655703067779541,
+                1.0,
+                0.8608933687210083
+            ],
+            "width": 1280.0
+        }
+    },
+    {
+        "link": "https://www.youtube.com/watch?v=IeH7XYbo0yg",
+        "link_id": "IeH7XYbo0yg",
+        "class1": {
+            "name": "teacher",
+            "org_text": "Teacher",
+            "start_time": 6.807,
+            "start": 204,
+            "end": 278,
+            "file": "ASL - People in school",
+            "label": 2,
+            "height": 720.0,
+            "fps": 29.97,
+            "end_time": 9.276,
+            "text": "teacher",
+            "box": [
+                0.006269395351409912,
+                0.09120994806289673,
+                1.0,
+                0.8499157428741455
+            ],
+            "width": 1280.0
+        }
+    },
+    {
+        "link": "https://www.youtube.com/watch?v=CzWUUhk6mMI",
+        "link_id": "CzWUUhk6mMI",
+        "class1": {
+            "name": "teacher",
+            "org_text": "TEACHER",
+            "start_time": 21.4,
+            "start": 642,
+            "end": 790,
+            "file": "Survival Voc Chad",
+            "label": 2,
+            "height": 720.0,
+            "fps": 30.0,
+            "end_time": 26.333,
+            "text": "teacher",
+            "box": [
+                0.13455229997634888,
+                0.1312095820903778,
+                1.0,
+                0.7679158449172974
+            ],
+            "width": 1280.0
+        },
+        "class2": {
+            "name": "like",
+            "org_text": "LiKE",
+            "start_time": 199.167,
+            "start": 5975,
+            "end": 6116,
+            "file": "Survival Voc Chad",
+            "label": 6,
+            "height": 720.0,
+            "fps": 30.0,
+            "end_time": 203.867,
+            "text": "like",
+            "box": [
+                0.14251214265823364,
+                0.08046561479568481,
+                1.0,
+                0.707473635673523
+            ],
+            "width": 1280.0
+        }
+    },
+    {
+        "link": "https://www.youtube.com/watch?v=S_LEeTt2McM",
+        "link_id": "S_LEeTt2McM",
+        "class1": {
+            "name": "nice",
+            "org_text": "NICE, CLEAN",
+            "start_time": 123.724,
+            "start": 3708,
+            "end": 3778,
+            "file": "ASL Unit 1 Vocab with Captions",
+            "label": 1,
+            "height": 360.0,
+            "fps": 29.97,
+            "end_time": 126.059,
+            "text": "nice",
+            "box": [
+                0.0016900300979614258,
+                0.1320575773715973,
+                0.9971935749053955,
+                0.8525758981704712
+            ],
+            "width": 640.0
+        },
+        "class2": {
+            "name": "deaf",
+            "org_text": "DEAF",
+            "start_time": 131.732,
+            "start": 3948,
+            "end": 3992,
+            "file": "ASL Unit 1 Vocab with Captions",
+            "label": 9,
+            "height": 360.0,
+            "fps": 29.97,
+            "end_time": 133.2,
+            "text": "deaf",
+            "box": [
+                0.0,
+                0.028808176517486572,
+                0.9956290125846863,
+                0.8693522214889526
+            ],
+            "width": 640.0
+        },
+        "class3": {
+            "name": "orange",
+            "org_text": "ORANGE",
+            "start_time": 155.222,
+            "start": 4652,
+            "end": 4711,
+            "file": "ASL Unit 1 Vocab with Captions",
+            "label": 7,
+            "height": 360.0,
+            "fps": 29.97,
+            "end_time": 157.19,
+            "text": "orange",
+            "box": [
+                6.499886512756348e-05,
+                0.1681753695011139,
+                0.9946957230567932,
+                0.8762022256851196
+            ],
+            "width": 640.0
+        },
+        "class4": {
+            "name": "hello",
+            "org_text": "HELLO, HI",
+            "start_time": 201.835,
+            "start": 6049,
+            "end": 6094,
+            "file": "ASL Unit 1 Vocab with Captions",
+            "label": 0,
+            "height": 360.0,
+            "fps": 29.97,
+            "end_time": 203.336,
+            "text": "hello",
+            "box": [
+                0.006330907344818115,
+                0.024119704961776733,
+                0.9939023852348328,
+                0.8799246549606323
+            ],
+            "width": 640.0
+        },
+        "class5": {
+            "name": "no",
+            "org_text": "NO",
+            "start_time": 246.012,
+            "start": 7373,
+            "end": 7417,
+            "file": "ASL Unit 1 Vocab with Captions",
+            "label": 4,
+            "height": 360.0,
+            "fps": 29.97,
+            "end_time": 247.481,
+            "text": "no",
+            "box": [
+                0.0,
+                0.0643688440322876,
+                0.9932740330696106,
+                0.8760933876037598
+            ],
+            "width": 640.0
+        }
+    },
+    {
+        "link": "https://www.youtube.com/watch?v=V8DTIPK4QlU",
+        "link_id": "V8DTIPK4QlU",
+        "class1": {
+            "name": "hello",
+            "org_text": "Hello!",
+            "start_time": 0.2,
+            "start": 6,
+            "end": 39,
+            "file": "Social Work Voc",
+            "label": 0,
+            "height": 720.0,
+            "fps": 30.0,
+            "end_time": 1.3,
+            "text": "hello",
+            "box": [
+                0.0746941864490509,
+                0.09081491827964783,
+                0.9960488080978394,
+                0.7834726572036743
+            ],
+            "width": 1280.0
+        }
+    },
+    {
+        "link": "https://www.youtube.com/watch?v=g59_3vr_NT0",
+        "link_id": "g59_3vr_NT0",
+        "class1": {
+            "name": "eat",
+            "org_text": "EAT, FOOD",
+            "start_time": 72.7,
+            "start": 2181,
+            "end": 2305,
+            "file": "Mr Miseners ASL lesson 4 review",
+            "label": 3,
+            "height": 720.0,
+            "fps": 30.0,
+            "end_time": 76.833,
+            "text": "eat",
+            "box": [
+                0.040983498096466064,
+                0.22808408737182617,
+                0.9971977472305298,
+                0.7607847452163696
+            ],
+            "width": 1280.0
+        },
+        "class2": {
+            "name": "no",
+            "org_text": "NO",
+            "start_time": 169.033,
+            "start": 5071,
+            "end": 5163,
+            "file": "Mr Miseners ASL lesson 4 review",
+            "label": 4,
+            "height": 720.0,
+            "fps": 30.0,
+            "end_time": 172.1,
+            "text": "no",
+            "box": [
+                0.04009631276130676,
+                0.21097010374069214,
+                1.0,
+                0.7677377462387085
+            ],
+            "width": 1280.0
+        }
+    },
+    {
+        "link": "https://www.youtube.com/watch?v=9g-hioQapYE",
+        "link_id": "9g-hioQapYE",
+        "class1": {
+            "name": "hello",
+            "org_text": "HELLO!",
+            "start_time": 0.067,
+            "start": 2,
+            "end": 47,
+            "file": "Aug to Oct Voc Captions",
+            "label": 0,
+            "height": 720.0,
+            "fps": 30.0,
+            "end_time": 1.567,
+            "text": "hello",
+            "box": [
+                0.0,
+                0.0,
+                1.0,
+                0.7508479356765747
+            ],
+            "width": 1280.0
+        },
+        "class2": {
+            "name": "orange",
+            "org_text": "ORANGE",
+            "start_time": 358.9,
+            "start": 10767,
+            "end": 10814,
+            "file": "Aug to Oct Voc Captions",
+            "label": 7,
+            "height": 720.0,
+            "fps": 30.0,
+            "end_time": 360.467,
+            "text": "orange",
+            "box": [
+                0.048625558614730835,
+                0.06459292769432068,
+                0.9980179071426392,
+                0.7653951048851013
+            ],
+            "width": 1280.0
+        },
+        "class3": {
+            "name": "deaf",
+            "org_text": "DEAF",
+            "start_time": 440.633,
+            "start": 13219,
+            "end": 13260,
+            "file": "Aug to Oct Voc Captions",
+            "label": 9,
+            "height": 720.0,
+            "fps": 30.0,
+            "end_time": 442.0,
+            "text": "deaf",
+            "box": [
+                0.03935050964355469,
+                0.03983321785926819,
+                0.9991005659103394,
+                0.761505126953125
+            ],
+            "width": 1280.0
+        },
+        "class4": {
+            "name": "teacher",
+            "org_text": "TEACHER",
+            "start_time": 561.867,
+            "start": 16856,
+            "end": 16897,
+            "file": "Aug to Oct Voc Captions",
+            "label": 2,
+            "height": 720.0,
+            "fps": 30.0,
+            "end_time": 563.233,
+            "text": "teacher",
+            "box": [
+                0.016150623559951782,
+                0.0013315975666046143,
+                0.9972841739654541,
+                0.8366011381149292
+            ],
+            "width": 1280.0
+        },
+        "class5": {
+            "name": "want",
+            "org_text": "WANT",
+            "start_time": 814.1,
+            "start": 24423,
+            "end": 24468,
+            "file": "Aug to Oct Voc Captions",
+            "label": 8,
+            "height": 720.0,
+            "fps": 30.0,
+            "end_time": 815.6,
+            "text": "want",
+            "box": [
+                0.023943036794662476,
+                0.0,
+                1.0,
+                0.7730467319488525
+            ],
+            "width": 1280.0
+        },
+        "class6": {
+            "name": "nice",
+            "org_text": "NICE",
+            "start_time": 821.533,
+            "start": 24646,
+            "end": 24683,
+            "file": "Aug to Oct Voc Captions",
+            "label": 1,
+            "height": 720.0,
+            "fps": 30.0,
+            "end_time": 822.767,
+            "text": "nice",
+            "box": [
+                0.013529449701309204,
+                0.05823346972465515,
+                0.9981156587600708,
+                0.7520006895065308
+            ],
+            "width": 1280.0
+        }
+    },
+    {
+        "link": "https://www.youtube.com/watch?v=eeHS78JyN70",
+        "link_id": "eeHS78JyN70",
+        "class1": {
+            "name": "eat",
+            "org_text": "Eat, food",
+            "start_time": 101.034,
+            "start": 3028,
+            "end": 3108,
+            "file": "Unit 10",
+            "label": 3,
+            "height": 360.0,
+            "fps": 29.97,
+            "end_time": 103.704,
+            "text": "eat",
+            "box": [
+                0.10048243403434753,
+                0.08662736415863037,
+                1.0,
+                0.5883554220199585
+            ],
+            "width": 640.0
+        }
+    },
+    {
+        "link": "https://www.youtube.com/watch?v=Qwdfx2_vzwc",
+        "link_id": "Qwdfx2_vzwc",
+        "class1": {
+            "name": "eat",
+            "org_text": "EAT",
+            "start_time": 10.711,
+            "start": 321,
+            "end": 403,
+            "file": "ASL - Rotuines",
+            "label": 3,
+            "height": 720.0,
+            "fps": 29.97,
+            "end_time": 13.447,
+            "text": "eat",
+            "box": [
+                0.05598711967468262,
+                0.2583874464035034,
+                1.0,
+                0.7306782007217407
+            ],
+            "width": 1280.0
+        }
+    },
+    {
+        "link": "https://www.youtube.com/watch?v=7bWO4SJ0sv4",
+        "link_id": "7bWO4SJ0sv4",
+        "class1": {
+            "name": "happy",
+            "org_text": "HAPPY",
+            "start_time": 0.0,
+            "start": 0,
+            "end": 43,
+            "file": "HAPPY(2)",
+            "label": 5,
+            "height": 360.0,
+            "fps": 15.0,
+            "end_time": 2.867,
+            "text": "happy",
+            "box": [
+                0.1935826539993286,
+                0.27404385805130005,
+                1.0,
+                0.8042936325073242
+            ],
+            "width": 480.0
+        }
+    },
+    {
+        "link": "https://www.youtube.com/watch?v=BEKUHzwnVO8",
+        "link_id": "BEKUHzwnVO8",
+        "class1": {
+            "name": "teacher",
+            "org_text": "Teacher (Teach+er)",
+            "start_time": 201.401,
+            "start": 6036,
+            "end": 6156,
+            "file": "Unit 1",
+            "label": 2,
+            "height": 360.0,
+            "fps": 29.97,
+            "end_time": 205.405,
+            "text": "teacher",
+            "box": [
+                0.0,
+                0.10466840863227844,
+                1.0,
+                0.95060795545578
+            ],
+            "width": 640.0
+        },
+        "class2": {
+            "name": "no",
+            "org_text": "No",
+            "start_time": 356.723,
+            "start": 10691,
+            "end": 10870,
+            "file": "Unit 1",
+            "label": 4,
+            "height": 360.0,
+            "fps": 29.97,
+            "end_time": 362.696,
+            "text": "no",
+            "box": [
+                0.06943544745445251,
+                0.19450759887695312,
+                1.0,
+                0.7152400016784668
+            ],
+            "width": 640.0
+        },
+        "class3": {
+            "name": "deaf",
+            "org_text": "Deaf",
+            "start_time": 394.828,
+            "start": 11833,
+            "end": 11903,
+            "file": "Unit 1",
+            "label": 9,
+            "height": 360.0,
+            "fps": 29.97,
+            "end_time": 397.163,
+            "text": "deaf",
+            "box": [
+                0.0,
+                0.08091545104980469,
+                1.0,
+                0.9210973381996155
+            ],
+            "width": 640.0
+        },
+        "class4": {
+            "name": "hello",
+            "org_text": "Hello, Hi",
+            "start_time": 421.988,
+            "start": 12647,
+            "end": 12830,
+            "file": "Unit 1",
+            "label": 0,
+            "height": 360.0,
+            "fps": 29.97,
+            "end_time": 428.094,
+            "text": "hello",
+            "box": [
+                0.03368663787841797,
+                0.18060782551765442,
+                1.0,
+                0.7270069122314453
+            ],
+            "width": 640.0
+        },
+        "class5": {
+            "name": "nice",
+            "org_text": "Nice",
+            "start_time": 475.475,
+            "start": 14250,
+            "end": 14438,
+            "file": "Unit 1",
+            "label": 1,
+            "height": 360.0,
+            "fps": 29.97,
+            "end_time": 481.748,
+            "text": "nice",
+            "box": [
+                0.03609961271286011,
+                0.21923503279685974,
+                1.0,
+                0.9208509922027588
+            ],
+            "width": 640.0
+        }
+    },
+    {
+        "link": "https://www.youtube.com/watch?v=iDWntsY_rZM",
+        "link_id": "iDWntsY_rZM",
+        "class1": {
+            "name": "hello",
+            "org_text": "Hello!",
+            "start_time": 2.103,
+            "start": 61,
+            "end": 80,
+            "file": "ASL 1 - Unit 1 Vocabulary Word List",
+            "label": 0,
+            "height": 360.0,
+            "fps": 29.0,
+            "end_time": 2.759,
+            "text": "hello",
+            "box": [
+                0.08161506056785583,
+                0.14258000254631042,
+                0.9986720085144043,
+                0.8926843404769897
+            ],
+            "width": 640.0
+        },
+        "class2": {
+            "name": "deaf",
+            "org_text": "Deaf",
+            "start_time": 126.414,
+            "start": 3666,
+            "end": 3768,
+            "file": "ASL 1 - Unit 1 Vocabulary Word List",
+            "label": 9,
+            "height": 360.0,
+            "fps": 29.0,
+            "end_time": 129.931,
+            "text": "deaf",
+            "box": [
+                0.08583974838256836,
+                0.28077250719070435,
+                1.0,
+                0.8481166362762451
+            ],
+            "width": 640.0
+        },
+        "class3": {
+            "name": "happy",
+            "org_text": "Happy",
+            "start_time": 284.241,
+            "start": 8243,
+            "end": 8341,
+            "file": "ASL 1 - Unit 1 Vocabulary Word List",
+            "label": 5,
+            "height": 360.0,
+            "fps": 29.0,
+            "end_time": 287.62,
+            "text": "happy",
+            "box": [
+                0.057078033685684204,
+                0.21174320578575134,
+                1.0,
+                0.8892378211021423
+            ],
+            "width": 640.0
+        },
+        "class4": {
+            "name": "like",
+            "org_text": "Like",
+            "start_time": 420.068,
+            "start": 12182,
+            "end": 12308,
+            "file": "ASL 1 - Unit 1 Vocabulary Word List",
+            "label": 6,
+            "height": 360.0,
+            "fps": 29.0,
+            "end_time": 424.413,
+            "text": "like",
+            "box": [
+                0.0539931058883667,
+                0.29419103264808655,
+                1.0,
+                0.8654162883758545
+            ],
+            "width": 640.0
+        },
+        "class5": {
+            "name": "no",
+            "org_text": "no",
+            "start_time": 455.241,
+            "start": 13202,
+            "end": 13235,
+            "file": "ASL 1 - Unit 1 Vocabulary Word List",
+            "label": 4,
+            "height": 360.0,
+            "fps": 29.0,
+            "end_time": 456.379,
+            "text": "no",
+            "box": [
+                0.07540348172187805,
+                0.3155277967453003,
+                0.9949651956558228,
+                0.7954291105270386
+            ],
+            "width": 640.0
+        },
+        "class6": {
+            "name": "nice",
+            "org_text": "Nice",
+            "start_time": 495.413,
+            "start": 14367,
+            "end": 14461,
+            "file": "ASL 1 - Unit 1 Vocabulary Word List",
+            "label": 1,
+            "height": 360.0,
+            "fps": 29.0,
+            "end_time": 498.654,
+            "text": "nice",
+            "box": [
+                0.05778518319129944,
+                0.2406206727027893,
+                1.0,
+                0.8423038721084595
+            ],
+            "width": 640.0
+        },
+        "class7": {
+            "name": "teacher",
+            "org_text": "Teacher (Teach + Person)",
+            "start_time": 659.93,
+            "start": 19138,
+            "end": 19216,
+            "file": "ASL 1 - Unit 1 Vocabulary Word List",
+            "label": 2,
+            "height": 360.0,
+            "fps": 29.0,
+            "end_time": 662.62,
+            "text": "teacher",
+            "box": [
+                0.059558361768722534,
+                0.14608463644981384,
+                1.0,
+                0.8930264711380005
+            ],
+            "width": 640.0
+        },
+        "class8": {
+            "name": "want",
+            "org_text": "Want",
+            "start_time": 744.24,
+            "start": 21583,
+            "end": 21668,
+            "file": "ASL 1 - Unit 1 Vocabulary Word List",
+            "label": 8,
+            "height": 360.0,
+            "fps": 29.0,
+            "end_time": 747.171,
+            "text": "want",
+            "box": [
+                0.06443789601325989,
+                0.23924696445465088,
+                1.0,
+                0.8057776093482971
+            ],
+            "width": 640.0
+        }
+    },
+    {
+        "link": "https://www.youtube.com/watch?v=HUMEcnkvhJU&t=862s",
+        "link_id": "HUMEcnkvhJU&t=862s",
+        "class1": {
+            "name": "happy",
+            "org_text": "HAPPY",
+            "start_time": 416.516,
+            "start": 12483,
+            "end": 12517,
+            "file": "The First 100 Signs You Need to Know",
+            "label": 5,
+            "height": 360.0,
+            "fps": 29.97,
+            "end_time": 417.651,
+            "text": "happy",
+            "box": [
+                0.0,
+                0.009041935205459595,
+                1.0,
+                0.9230364561080933
+            ],
+            "width": 640.0
+        },
+        "class2": {
+            "name": "hello",
+            "org_text": "HELLO",
+            "start_time": 452.152,
+            "start": 13551,
+            "end": 13588,
+            "file": "The First 100 Signs You Need to Know",
+            "label": 0,
+            "height": 360.0,
+            "fps": 29.97,
+            "end_time": 453.386,
+            "text": "hello",
+            "box": [
+                0.0,
+                0.07796779274940491,
+                1.0,
+                0.8660461902618408
+            ],
+            "width": 640.0
+        },
+        "class3": {
+            "name": "like",
+            "org_text": "LIKE",
+            "start_time": 594.794,
+            "start": 17826,
+            "end": 17956,
+            "file": "The First 100 Signs You Need to Know",
+            "label": 6,
+            "height": 360.0,
+            "fps": 29.97,
+            "end_time": 599.132,
+            "text": "like",
+            "box": [
+                0.0,
+                0.05023068189620972,
+                1.0,
+                0.9513454437255859
+            ],
+            "width": 640.0
+        },
+        "class4": {
+            "name": "nice",
+            "org_text": "NICE/\nCLEAN",
+            "start_time": 746.879,
+            "start": 22384,
+            "end": 22422,
+            "file": "The First 100 Signs You Need to Know",
+            "label": 1,
+            "height": 360.0,
+            "fps": 29.97,
+            "end_time": 748.147,
+            "text": "nice",
+            "box": [
+                0.0,
+                0.011234760284423828,
+                1.0,
+                0.8403716087341309
+            ],
+            "width": 640.0
+        },
+        "class5": {
+            "name": "no",
+            "org_text": "NO",
+            "start_time": 779.812,
+            "start": 23371,
+            "end": 23641,
+            "file": "The First 100 Signs You Need to Know",
+            "label": 4,
+            "height": 360.0,
+            "fps": 29.97,
+            "end_time": 788.821,
+            "text": "no",
+            "box": [
+                0.0,
+                0.0,
+                1.0,
+                0.9009528756141663
+            ],
+            "width": 640.0
+        }
+    },
+    {
+        "link": "https://www.youtube.com/watch?v=wVrfhtSnUCQ",
+        "link_id": "wVrfhtSnUCQ",
+        "class1": {
+            "name": "eat",
+            "org_text": "eat",
+            "start_time": 0.0,
+            "start": 0,
+            "end": 103,
+            "file": "ASL Eat",
+            "label": 3,
+            "height": 360.0,
+            "fps": 29.971,
+            "end_time": 3.437,
+            "text": "eat",
+            "box": [
+                0.0,
+                0.23597928881645203,
+                1.0,
+                0.8382189273834229
+            ],
+            "width": 640.0
+        }
+    },
+    {
+        "link": "https://www.youtube.com/watch?v=bX1eJjB3nyA",
+        "link_id": "bX1eJjB3nyA",
+        "class1": {
+            "name": "no",
+            "org_text": "NO",
+            "start_time": 149.549,
+            "start": 4482,
+            "end": 4570,
+            "file": "ASL Basic Classroom Signs",
+            "label": 4,
+            "height": 360.0,
+            "fps": 29.97,
+            "end_time": 152.486,
+            "text": "no",
+            "box": [
+                0.06802454590797424,
+                0.11141422390937805,
+                1.0,
+                0.8437012434005737
+            ],
+            "width": 640.0
+        },
+        "class2": {
+            "name": "happy",
+            "org_text": "HAPPY",
+            "start_time": 203.336,
+            "start": 6094,
+            "end": 6122,
+            "file": "ASL Basic Classroom Signs",
+            "label": 5,
+            "height": 360.0,
+            "fps": 29.97,
+            "end_time": 204.271,
+            "text": "happy",
+            "box": [
+                0.060574889183044434,
+                0.04443666338920593,
+                1.0,
+                0.8852603435516357
+            ],
+            "width": 640.0
+        },
+        "class3": {
+            "name": "teacher",
+            "org_text": "TEACHER",
+            "start_time": 441.708,
+            "start": 13238,
+            "end": 13281,
+            "file": "ASL Basic Classroom Signs",
+            "label": 2,
+            "height": 360.0,
+            "fps": 29.97,
+            "end_time": 443.143,
+            "text": "teacher",
+            "box": [
+                0.14350247383117676,
+                0.08291634917259216,
+                1.0,
+                0.8898842334747314
+            ],
+            "width": 640.0
+        }
+    },
+    {
+        "link": "https://www.youtube.com/watch?v=QBtof6T2N0Q",
+        "link_id": "QBtof6T2N0Q",
+        "class1": {
+            "name": "orange",
+            "org_text": "orange",
+            "start_time": 0.0,
+            "start": 0,
+            "end": 50,
+            "file": "ORANGE(5)",
+            "label": 7,
+            "height": 360.0,
+            "fps": 15.0,
+            "end_time": 3.333,
+            "text": "orange",
+            "box": [
+                0.16905495524406433,
+                0.2819271683692932,
+                1.0,
+                0.7895145416259766
+            ],
+            "width": 480.0
+        }
+    },
+    {
+        "link": "https://www.youtube.com/watch?v=0v4Y9WGhES8",
+        "link_id": "0v4Y9WGhES8",
+        "class1": {
+            "name": "hello",
+            "org_text": "HELLO",
+            "start_time": 6.306,
+            "start": 189,
+            "end": 249,
+            "file": "ASL1Chapter1 Vocab",
+            "label": 0,
+            "height": 360.0,
+            "fps": 29.97,
+            "end_time": 8.308,
+            "text": "hello",
+            "box": [
+                0.08169907331466675,
+                0.25694936513900757,
+                1.0,
+                0.8990674018859863
+            ],
+            "width": 640.0
+        },
+        "class2": {
+            "name": "no",
+            "org_text": "NO",
+            "start_time": 90.19,
+            "start": 2703,
+            "end": 2845,
+            "file": "ASL1Chapter1 Vocab",
+            "label": 4,
+            "height": 360.0,
+            "fps": 29.97,
+            "end_time": 94.928,
+            "text": "no",
+            "box": [
+                0.05175474286079407,
+                0.11082753539085388,
+                1.0,
+                0.8131875991821289
+            ],
+            "width": 640.0
+        },
+        "class3": {
+            "name": "teacher",
+            "org_text": "TEACHER",
+            "start_time": 269.536,
+            "start": 8078,
+            "end": 8168,
+            "file": "ASL1Chapter1 Vocab",
+            "label": 2,
+            "height": 360.0,
+            "fps": 29.97,
+            "end_time": 272.539,
+            "text": "teacher",
+            "box": [
+                0.012549728155136108,
+                0.1825399398803711,
+                1.0,
+                0.8313431143760681
+            ],
+            "width": 640.0
+        },
+        "class4": {
+            "name": "nice",
+            "org_text": "NICE",
+            "start_time": 287.053,
+            "start": 8603,
+            "end": 8697,
+            "file": "ASL1Chapter1 Vocab",
+            "label": 1,
+            "height": 360.0,
+            "fps": 29.97,
+            "end_time": 290.19,
+            "text": "nice",
+            "box": [
+                0.04813089966773987,
+                0.1003793329000473,
+                1.0,
+                0.8236522674560547
+            ],
+            "width": 640.0
+        }
+    },
+    {
+        "link": "https://www.youtube.com/watch?v=1bj72qXSy8c",
+        "link_id": "1bj72qXSy8c",
+        "class1": {
+            "name": "like",
+            "org_text": "like",
+            "start_time": 228.811,
+            "start": 5492,
+            "end": 5566,
+            "file": "ASL I - Unit 6 Vocabulary Review",
+            "label": 6,
+            "height": 720.0,
+            "fps": 24.002,
+            "end_time": 231.894,
+            "text": "like",
+            "box": [
+                0.18858179450035095,
+                0.4063304662704468,
+                0.9836764335632324,
+                0.9203289747238159
+            ],
+            "width": 1280.0
+        },
+        "class2": {
+            "name": "nice",
+            "org_text": "clean",
+            "start_time": 277.223,
+            "start": 6654,
+            "end": 6735,
+            "file": "ASL I - Unit 6 Vocabulary Review",
+            "label": 1,
+            "height": 720.0,
+            "fps": 24.002,
+            "end_time": 280.597,
+            "text": "nice",
+            "box": [
+                0.21456974744796753,
+                0.40349406003952026,
+                0.9830646514892578,
+                0.9401103258132935
+            ],
+            "width": 1280.0
+        }
+    },
+    {
+        "link": "https://www.youtube.com/watch?v=FsfHnBqWll0",
+        "link_id": "FsfHnBqWll0",
+        "class1": {
+            "name": "want",
+            "org_text": "WANT",
+            "start_time": 67.801,
+            "start": 2032,
+            "end": 2061,
+            "file": "ASL Unit 3 Vocab with Captions",
+            "label": 8,
+            "height": 360.0,
+            "fps": 29.97,
+            "end_time": 68.769,
+            "text": "want",
+            "box": [
+                0.0,
+                0.20906177163124084,
+                0.9970605373382568,
+                0.9916226863861084
+            ],
+            "width": 640.0
+        }
+    },
+    {
+        "link": "https://www.youtube.com/watch?v=EyWuC4JL4Tk",
+        "link_id": "EyWuC4JL4Tk",
+        "class1": {
+            "name": "like",
+            "org_text": "Like",
+            "start_time": 11.478,
+            "start": 344,
+            "end": 414,
+            "file": "ASL - Like and Dislike",
+            "label": 6,
+            "height": 720.0,
+            "fps": 29.97,
+            "end_time": 13.814,
+            "text": "like",
+            "box": [
+                0.10383939743041992,
+                0.14925023913383484,
+                1.0,
+                0.8043673634529114
+            ],
+            "width": 1280.0
+        }
+    },
+    {
+        "link": "https://www.youtube.com/watch?v=JYF-AfMbUNw",
+        "link_id": "JYF-AfMbUNw",
+        "class1": {
+            "name": "no",
+            "org_text": "no",
+            "start_time": 260.694,
+            "start": 7813,
+            "end": 7902,
+            "file": "ASL I - Unit 5 Vocabulary Review",
+            "label": 4,
+            "height": 352.0,
+            "fps": 29.97,
+            "end_time": 263.663,
+            "text": "no",
+            "box": [
+                0.19936716556549072,
+                0.4265153408050537,
+                0.9998802542686462,
+                0.9238381385803223
+            ],
+            "width": 640.0
+        }
+    },
+    {
+        "link": "https://www.youtube.com/watch?v=CmKYKBQuHf4",
+        "link_id": "CmKYKBQuHf4",
+        "class1": {
+            "name": "eat",
+            "org_text": "Eat, Food",
+            "start_time": 13.78,
+            "start": 413,
+            "end": 606,
+            "file": "UNIT 11",
+            "label": 3,
+            "height": 360.0,
+            "fps": 29.97,
+            "end_time": 20.22,
+            "text": "eat",
+            "box": [
+                0.0,
+                0.2046765685081482,
+                1.0,
+                0.6482183933258057
+            ],
+            "width": 640.0
+        }
+    },
+    {
+        "link": "www.youtube.com/watch?v=XleDZhobVno",
+        "link_id": "XleDZhobVno",
+        "class1": {
+            "name": "eat",
+            "org_text": "Food",
+            "start_time": 0.0,
+            "start": 0,
+            "end": 41,
+            "file": "Food in Sign Language ASL Dictionary for kids",
+            "label": 3,
+            "height": 360.0,
+            "fps": 25.0,
+            "end_time": 1.64,
+            "text": "eat",
+            "box": [
+                0.002736121416091919,
+                0.21269425749778748,
+                1.0,
+                0.7358647584915161
+            ],
+            "width": 640.0
+        }
+    },
+    {
+        "link": "https://www.youtube.com/watch?v=Xq3QAqQXpTM",
+        "link_id": "Xq3QAqQXpTM",
+        "class1": {
+            "name": "happy",
+            "org_text": "Joyful",
+            "start_time": 231.298,
+            "start": 6932,
+            "end": 6999,
+            "file": "Unit 11 Signing Naturally ASL II",
+            "label": 5,
+            "height": 360.0,
+            "fps": 29.97,
+            "end_time": 233.533,
+            "text": "happy",
+            "box": [
+                0.0,
+                0.23317542672157288,
+                1.0,
+                0.8283607363700867
+            ],
+            "width": 640.0
+        }
+    },
+    {
+        "link": "https://www.youtube.com/watch?v=0qeMFifNqC4",
+        "link_id": "0qeMFifNqC4",
+        "class1": {
+            "name": "like",
+            "org_text": "LIKE",
+            "start_time": 0.0,
+            "start": 0,
+            "end": 90,
+            "file": "LIKE",
+            "label": 6,
+            "height": 720.0,
+            "fps": 30.0,
+            "end_time": 3.0,
+            "text": "like",
+            "box": [
+                0.002002805471420288,
+                0.05157873034477234,
+                1.0,
+                0.8786914944648743
+            ],
+            "width": 1280.0
+        }
+    },
+    {
+        "link": "https://www.youtube.com/watch?v=QwxSYpnuATA",
+        "link_id": "QwxSYpnuATA",
+        "class1": {
+            "name": "orange",
+            "org_text": "Orange",
+            "start_time": 17.084,
+            "start": 512,
+            "end": 574,
+            "file": "ASL - Fruits",
+            "label": 7,
+            "height": 720.0,
+            "fps": 29.97,
+            "end_time": 19.152,
+            "text": "orange",
+            "box": [
+                0.027043133974075317,
+                0.17703837156295776,
+                1.0,
+                0.8122885227203369
+            ],
+            "width": 1280.0
+        }
+    },
+    {
+        "link": "https://www.youtube.com/watch?v=3A0iSc2umlg",
+        "link_id": "3A0iSc2umlg",
+        "class1": {
+            "name": "happy",
+            "org_text": "HAPPY",
+            "start_time": 37.638,
+            "start": 1128,
+            "end": 1278,
+            "file": "50 Different Feelings  Emotions in ASL",
+            "label": 5,
+            "height": 360.0,
+            "fps": 29.97,
+            "end_time": 42.643,
+            "text": "happy",
+            "box": [
+                0.0,
+                0.10319054126739502,
+                1.0,
+                0.7905828952789307
+            ],
+            "width": 640.0
+        },
+        "class2": {
+            "name": "like",
+            "org_text": "LIKE",
+            "start_time": 87.12,
+            "start": 2611,
+            "end": 2791,
+            "file": "50 Different Feelings  Emotions in ASL",
+            "label": 6,
+            "height": 360.0,
+            "fps": 29.97,
+            "end_time": 93.126,
+            "text": "like",
+            "box": [
+                0.00937238335609436,
+                0.1320318579673767,
+                1.0,
+                0.7942346334457397
+            ],
+            "width": 640.0
+        }
+    },
+    {
+        "link": "https://www.youtube.com/watch?v=sQELZPmche8",
+        "link_id": "sQELZPmche8",
+        "class1": {
+            "name": "no",
+            "org_text": "No",
+            "start_time": 44.19,
+            "start": 1301,
+            "end": 1360,
+            "file": "ASL - ASL Necessities for ASL 1",
+            "label": 4,
+            "height": 360.0,
+            "fps": 29.441,
+            "end_time": 46.194,
+            "text": "no",
+            "box": [
+                0.06106346845626831,
+                0.1155351996421814,
+                1.0,
+                0.866276741027832
+            ],
+            "width": 480.0
+        }
+    },
+    {
+        "link": "https://www.youtube.com/watch?v=2VB3WN8adyM",
+        "link_id": "2VB3WN8adyM",
+        "class1": {
+            "name": "orange",
+            "org_text": "orange",
+            "start_time": 62.958,
+            "start": 1511,
+            "end": 1596,
+            "file": "ASL I - Unit 1 Vocabulary",
+            "label": 7,
+            "height": 720.0,
+            "fps": 24.0,
+            "end_time": 66.5,
+            "text": "orange",
+            "box": [
+                0.159609854221344,
+                0.48485076427459717,
+                0.9964108467102051,
+                0.9119378328323364
+            ],
+            "width": 1280.0
+        },
+        "class2": {
+            "name": "hello",
+            "org_text": "hello",
+            "start_time": 93.333,
+            "start": 2240,
+            "end": 2316,
+            "file": "ASL I - Unit 1 Vocabulary",
+            "label": 0,
+            "height": 720.0,
+            "fps": 24.0,
+            "end_time": 96.5,
+            "text": "hello",
+            "box": [
+                0.10269162058830261,
+                0.4592241644859314,
+                0.9964605569839478,
+                0.9094752669334412
+            ],
+            "width": 1280.0
+        },
+        "class3": {
+            "name": "deaf",
+            "org_text": "Deaf",
+            "start_time": 192.833,
+            "start": 4628,
+            "end": 4766,
+            "file": "ASL I - Unit 1 Vocabulary",
+            "label": 9,
+            "height": 720.0,
+            "fps": 24.0,
+            "end_time": 198.583,
+            "text": "deaf",
+            "box": [
+                0.14552167057991028,
+                0.4495706558227539,
+                0.9989901781082153,
+                0.907343864440918
+            ],
+            "width": 1280.0
+        }
+    },
+    {
+        "link": "https://www.youtube.com/watch?v=DtTVnZO0kNI",
+        "link_id": "DtTVnZO0kNI",
+        "class1": {
+            "name": "teacher",
+            "org_text": "TEACHER",
+            "start_time": 33.033,
+            "start": 990,
+            "end": 1044,
+            "file": "KPHS School Vocab Video Part 1 - People",
+            "label": 2,
+            "height": 360.0,
+            "fps": 29.97,
+            "end_time": 34.835,
+            "text": "teacher",
+            "box": [
+                0.0,
+                0.1640607714653015,
+                1.0,
+                0.9071429371833801
+            ],
+            "width": 640.0
+        }
+    },
+    {
+        "link": "https://www.youtube.com/watch?v=2lzLDsoVWww",
+        "link_id": "2lzLDsoVWww",
+        "class1": {
+            "name": "nice",
+            "org_text": "Clean",
+            "start_time": 101.467,
+            "start": 3044,
+            "end": 3142,
+            "file": "Unit 5- Signing Naturally",
+            "label": 1,
+            "height": 360.0,
+            "fps": 30.0,
+            "end_time": 104.733,
+            "text": "nice",
+            "box": [
+                0.20859414339065552,
+                0.13684114813804626,
+                1.0,
+                0.7804428339004517
+            ],
+            "width": 640.0
+        }
+    },
+    {
+        "link": "https://www.youtube.com/watch?v=n7MQUHa0vr4&t=1s",
+        "link_id": "n7MQUHa0vr4&t=1s",
+        "class1": {
+            "name": "orange",
+            "org_text": "ORANGE",
+            "start_time": 48.882,
+            "start": 1465,
+            "end": 1605,
+            "file": "ASL1 Chapter 4 Vocab",
+            "label": 7,
+            "height": 360.0,
+            "fps": 29.97,
+            "end_time": 53.553,
+            "text": "orange",
+            "box": [
+                0.009069085121154785,
+                0.21653199195861816,
+                1.0,
+                0.6755338907241821
+            ],
+            "width": 640.0
+        },
+        "class2": {
+            "name": "nice",
+            "org_text": "CLEAN",
+            "start_time": 856.823,
+            "start": 25679,
+            "end": 25779,
+            "file": "ASL1 Chapter 4 Vocab",
+            "label": 1,
+            "height": 360.0,
+            "fps": 29.97,
+            "end_time": 860.159,
+            "text": "nice",
+            "box": [
+                0.006623297929763794,
+                0.2541782557964325,
+                1.0,
+                0.7149777412414551
+            ],
+            "width": 640.0
+        }
+    },
+    {
+        "link": "https://www.youtube.com/watch?v=Y4Ah4DAuQS0",
+        "link_id": "Y4Ah4DAuQS0",
+        "class1": {
+            "name": "nice",
+            "org_text": "CLEAN",
+            "start_time": 84.017,
+            "start": 2518,
+            "end": 2547,
+            "file": "ASL Unit 5 Vocab Captioned",
+            "label": 1,
+            "height": 720.0,
+            "fps": 29.97,
+            "end_time": 84.985,
+            "text": "nice",
+            "box": [
+                0.0,
+                0.126842200756073,
+                0.9963085651397705,
+                0.9084223508834839
+            ],
+            "width": 1280.0
+        }
+    },
+    {
+        "link": "https://www.youtube.com/watch?v=rIlQQTN2b58",
+        "link_id": "rIlQQTN2b58",
+        "class1": {
+            "name": "happy",
+            "org_text": "happy",
+            "start_time": 175.101,
+            "start": 4203,
+            "end": 4291,
+            "file": "ASL I - Unit 11",
+            "label": 5,
+            "height": 720.0,
+            "fps": 24.003,
+            "end_time": 178.767,
+            "text": "happy",
+            "box": [
+                0.21493500471115112,
+                0.4142642319202423,
+                0.9787367582321167,
+                0.9883356094360352
+            ],
+            "width": 1280.0
+        }
+    },
+    {
+        "link": "https://www.youtube.com/watch?v=_bL1hlBmaLI",
+        "link_id": "_bL1hlBmaLI",
+        "class1": {
+            "name": "like",
+            "org_text": "LiKE",
+            "start_time": 276.4,
+            "start": 8292,
+            "end": 8419,
+            "file": "Valentine Vocabulary",
+            "label": 6,
+            "height": 720.0,
+            "fps": 30.0,
+            "end_time": 280.633,
+            "text": "like",
+            "box": [
+                0.04137754440307617,
+                0.1785799264907837,
+                1.0,
+                0.7479690313339233
+            ],
+            "width": 1280.0
+        }
+    },
+    {
+        "link": "www.youtube.com/watch?v=lJq6cwXjyQc",
+        "link_id": "lJq6cwXjyQc",
+        "class1": {
+            "name": "want",
+            "org_text": "want",
+            "start_time": 0.0,
+            "start": 0,
+            "end": 43,
+            "file": "SignSchool Want",
+            "label": 8,
+            "height": 360.0,
+            "fps": 23.976,
+            "end_time": 1.793,
+            "text": "want",
+            "box": [
+                0.06532406806945801,
+                0.3115561902523041,
+                1.0,
+                0.8252109289169312
+            ],
+            "width": 640.0
+        }
+    },
+    {
+        "link": "https://www.youtube.com/watch?v=hKogDJd0yc4",
+        "link_id": "hKogDJd0yc4",
+        "class1": {
+            "name": "orange",
+            "org_text": "Orange",
+            "start_time": 135.369,
+            "start": 4057,
+            "end": 4147,
+            "file": "Unit 4",
+            "label": 7,
+            "height": 360.0,
+            "fps": 29.97,
+            "end_time": 138.372,
+            "text": "orange",
+            "box": [
+                0.04093697667121887,
+                0.1328832507133484,
+                1.0,
+                0.6094095706939697
+            ],
+            "width": 640.0
+        }
+    },
+    {
+        "link": "www.youtube.com/watch?v=KGcYDLCx3bE",
+        "link_id": "KGcYDLCx3bE",
+        "class1": {
+            "name": "deaf",
+            "org_text": "Deaf",
+            "start_time": 0.0,
+            "start": 0,
+            "end": 71,
+            "file": "Deaf in Sign Language ASL Dictionary for kids",
+            "label": 9,
+            "height": 360.0,
+            "fps": 25.0,
+            "end_time": 2.84,
+            "text": "deaf",
+            "box": [
+                0.036124616861343384,
+                0.25189337134361267,
+                1.0,
+                0.7447810769081116
+            ],
+            "width": 640.0
+        }
+    },
+    {
+        "link": "https://www.youtube.com/watch?v=GmxS5HkNc3o",
+        "link_id": "GmxS5HkNc3o",
+        "class1": {
+            "name": "like",
+            "org_text": "Like",
+            "start_time": 13.276,
+            "start": 385,
+            "end": 497,
+            "file": "ASL conversational signs",
+            "label": 6,
+            "height": 360.0,
+            "fps": 29.0,
+            "end_time": 17.138,
+            "text": "like",
+            "box": [
+                0.10122805833816528,
+                0.28211989998817444,
+                0.9955296516418457,
+                0.6037032008171082
+            ],
+            "width": 640.0
+        },
+        "class2": {
+            "name": "eat",
+            "org_text": "Food",
+            "start_time": 99.931,
+            "start": 2898,
+            "end": 3007,
+            "file": "ASL conversational signs",
+            "label": 3,
+            "height": 360.0,
+            "fps": 29.0,
+            "end_time": 103.69,
+            "text": "eat",
+            "box": [
+                0.02509555220603943,
+                0.2915157079696655,
+                1.0,
+                0.6330857276916504
+            ],
+            "width": 640.0
+        }
+    },
+    {
+        "link": "https://www.youtube.com/watch?v=FRQbKDZeRzM",
+        "link_id": "FRQbKDZeRzM",
+        "class1": {
+            "name": "nice",
+            "org_text": "Clean",
+            "start_time": 468.435,
+            "start": 14039,
+            "end": 14147,
+            "file": "ASL Vocabulary Opposites",
+            "label": 1,
+            "height": 540.0,
+            "fps": 29.97,
+            "end_time": 472.038,
+            "text": "nice",
+            "box": [
+                0.07343697547912598,
+                0.43807241320610046,
+                1.0,
+                0.7317953705787659
+            ],
+            "width": 1280.0
+        }
+    },
+    {
+        "link": "https://www.youtube.com/watch?v=He0k3ddd67A",
+        "link_id": "He0k3ddd67A",
+        "class1": {
+            "name": "orange",
+            "org_text": "orange",
+            "start_time": 403.5,
+            "start": 9684,
+            "end": 9749,
+            "file": "ASL II Unit 16",
+            "label": 7,
+            "height": 360.0,
+            "fps": 24.0,
+            "end_time": 406.208,
+            "text": "orange",
+            "box": [
+                0.07628887891769409,
+                0.4636702537536621,
+                1.0,
+                0.9949408769607544
+            ],
+            "width": 640.0
+        }
+    },
+    {
+        "link": "https://www.youtube.com/watch?v=dELt8wh_5nA&t=91s",
+        "link_id": "dELt8wh_5nA&t=91s",
+        "class1": {
+            "name": "nice",
+            "org_text": "nice",
+            "start_time": 404.633,
+            "start": 9712,
+            "end": 9808,
+            "file": "ASL2 Unit 13",
+            "label": 1,
+            "height": 720.0,
+            "fps": 24.002,
+            "end_time": 408.632,
+            "text": "nice",
+            "box": [
+                0.19118714332580566,
+                0.44822070002555847,
+                0.9900013208389282,
+                0.9234151840209961
+            ],
+            "width": 1280.0
+        }
+    },
+    {
+        "link": "https://www.youtube.com/watch?v=Qvn5RGyb0po",
+        "link_id": "Qvn5RGyb0po",
+        "class1": {
+            "name": "deaf",
+            "org_text": "DEAF",
+            "start_time": 0.0,
+            "start": 0,
+            "end": 107,
+            "file": "DEAF(1)",
+            "label": 9,
+            "height": 720.0,
+            "fps": 25.033,
+            "end_time": 4.274,
+            "text": "deaf",
+            "box": [
+                0.0,
+                0.20082050561904907,
+                0.9981541633605957,
+                0.8408927917480469
+            ],
+            "width": 1280.0
+        }
+    },
+    {
+        "link": "https://www.youtube.com/watch?v=CYLvY25yI9c",
+        "link_id": "CYLvY25yI9c",
+        "class1": {
+            "name": "nice",
+            "org_text": "CLEAN",
+            "start_time": 0.0,
+            "start": 0,
+            "end": 42,
+            "file": "CLEAN(1)",
+            "label": 1,
+            "height": 360.0,
+            "fps": 15.0,
+            "end_time": 2.8,
+            "text": "nice",
+            "box": [
+                0.17861619591712952,
+                0.222682386636734,
+                1.0,
+                0.794683039188385
+            ],
+            "width": 480.0
+        }
+    },
+    {
+        "link": "https://www.youtube.com/watch?v=KLD5f35qEDI&t=1043s",
+        "link_id": "KLD5f35qEDI&t=1043s",
+        "class1": {
+            "name": "teacher",
+            "org_text": "TEACHER",
+            "start_time": 124.791,
+            "start": 3740,
+            "end": 3820,
+            "file": "ASL1Chapter3 Vocab",
+            "label": 2,
+            "height": 360.0,
+            "fps": 29.97,
+            "end_time": 127.461,
+            "text": "teacher",
+            "box": [
+                0.015836000442504883,
+                0.16256684064865112,
+                1.0,
+                0.8650780916213989
+            ],
+            "width": 640.0
+        },
+        "class2": {
+            "name": "eat",
+            "org_text": "EAT",
+            "start_time": 876.776,
+            "start": 26277,
+            "end": 26357,
+            "file": "ASL1Chapter3 Vocab",
+            "label": 3,
+            "height": 360.0,
+            "fps": 29.97,
+            "end_time": 879.445,
+            "text": "eat",
+            "box": [
+                0.07281994819641113,
+                0.25051096081733704,
+                1.0,
+                0.7474819421768188
+            ],
+            "width": 640.0
+        }
+    },
+    {
+        "link": "https://www.youtube.com/watch?v=-jfRyJH7OMI",
+        "link_id": "-jfRyJH7OMI",
+        "class1": {
+            "name": "teacher",
+            "org_text": "TEACHER",
+            "start_time": 427.233,
+            "start": 12817,
+            "end": 12916,
+            "file": "Jobs Occupation Voc",
+            "label": 2,
+            "height": 720.0,
+            "fps": 30.0,
+            "end_time": 430.533,
+            "text": "teacher",
+            "box": [
+                0.10838714241981506,
+                0.14318466186523438,
+                1.0,
+                0.7538957595825195
+            ],
+            "width": 1280.0
+        }
+    },
+    {
+        "link": "https://www.youtube.com/watch?v=PRZcJy5-YGo",
+        "link_id": "PRZcJy5-YGo",
+        "class1": {
+            "name": "like",
+            "org_text": "like",
+            "start_time": 0.0,
+            "start": 0,
+            "end": 91,
+            "file": "ASL Like",
+            "label": 6,
+            "height": 360.0,
+            "fps": 29.967,
+            "end_time": 3.037,
+            "text": "like",
+            "box": [
+                0.03127402067184448,
+                0.25317394733428955,
+                1.0,
+                0.7511101961135864
+            ],
+            "width": 640.0
+        }
+    },
+    {
+        "link": "https://www.youtube.com/watch?v=lAE4m0AFNcw",
+        "link_id": "lAE4m0AFNcw",
+        "class1": {
+            "name": "happy",
+            "org_text": "happy",
+            "start_time": 0.0,
+            "start": 0,
+            "end": 76,
+            "file": "ASL Happy",
+            "label": 5,
+            "height": 360.0,
+            "fps": 29.961,
+            "end_time": 2.537,
+            "text": "happy",
+            "box": [
+                0.09095218777656555,
+                0.2976635694503784,
+                1.0,
+                0.7624553442001343
+            ],
+            "width": 640.0
+        }
+    },
+    {
+        "link": "https://www.youtube.com/watch?v=cxXEULq9Jpc",
+        "link_id": "cxXEULq9Jpc",
+        "class1": {
+            "name": "happy",
+            "org_text": "HAPPY",
+            "start_time": 199.966,
+            "start": 5993,
+            "end": 6123,
+            "file": "ASL1Chapter2 Vocab",
+            "label": 5,
+            "height": 360.0,
+            "fps": 29.97,
+            "end_time": 204.304,
+            "text": "happy",
+            "box": [
+                0.05969002842903137,
+                0.034759581089019775,
+                1.0,
+                0.8792688846588135
+            ],
+            "width": 640.0
+        },
+        "class2": {
+            "name": "like",
+            "org_text": "LIKE",
+            "start_time": 602.869,
+            "start": 18068,
+            "end": 18138,
+            "file": "ASL1Chapter2 Vocab",
+            "label": 6,
+            "height": 360.0,
+            "fps": 29.97,
+            "end_time": 605.205,
+            "text": "like",
+            "box": [
+                0.021546095609664917,
+                0.18280553817749023,
+                1.0,
+                0.8285000920295715
+            ],
+            "width": 640.0
+        },
+        "class3": {
+            "name": "want",
+            "org_text": "WANT",
+            "start_time": 646.713,
+            "start": 19382,
+            "end": 19452,
+            "file": "ASL1Chapter2 Vocab",
+            "label": 8,
+            "height": 360.0,
+            "fps": 29.97,
+            "end_time": 649.048,
+            "text": "want",
+            "box": [
+                0.067868173122406,
+                0.08052527904510498,
+                1.0,
+                0.9252995848655701
+            ],
+            "width": 640.0
+        },
+        "class4": {
+            "name": "deaf",
+            "org_text": "DEAF",
+            "start_time": 673.239,
+            "start": 20177,
+            "end": 20257,
+            "file": "ASL1Chapter2 Vocab",
+            "label": 9,
+            "height": 360.0,
+            "fps": 29.97,
+            "end_time": 675.909,
+            "text": "deaf",
+            "box": [
+                0.06464117765426636,
+                0.2471490502357483,
+                1.0,
+                0.7865008115768433
+            ],
+            "width": 640.0
+        }
+    },
+    {
+        "link": "www.youtube.com/watch?v=URb48i4X52U",
+        "link_id": "URb48i4X52U",
+        "class1": {
+            "name": "no",
+            "org_text": "No",
+            "start_time": 0.0,
+            "start": 0,
+            "end": 81,
+            "file": "No in Sign Language ASL Dictionary for kids",
+            "label": 4,
+            "height": 360.0,
+            "fps": 25.0,
+            "end_time": 3.24,
+            "text": "no",
+            "box": [
+                0.007126033306121826,
+                0.21022003889083862,
+                1.0,
+                0.7368384599685669
+            ],
+            "width": 640.0
+        }
+    }
+]
